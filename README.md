@@ -1,6 +1,6 @@
 
 
-****Complete source code zip file  download here**: https://drive.google.com/file/d/1pUWw2qR-jynJlqkNG-3HDFSdyKvnfeon/view?usp=sharing
+
 # Complete Setup Guide: WhatsApp Farming Assistant
 
 This guide will walk you through setting up the multilingual farming assistant on your local machine, from creating a WhatsApp sandbox to running the full application.
